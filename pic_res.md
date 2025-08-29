@@ -670,3 +670,7 @@
 - url: 听力不好，录多了？.jpg
 - dec: 演都不演的
 - contributor: BI7AWD
+### 下海漫游嘛
+- url: 下海.jpg
+- dec: 一定是去海上漫游要捐赠罢
+- contributor: BD8ENW
